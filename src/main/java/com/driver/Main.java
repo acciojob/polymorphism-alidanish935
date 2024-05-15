@@ -9,7 +9,7 @@ public class Main {
         p.Product(5, 7);
 
     }
-    static class Product{
+    public static class Product{
         public int Product(int x,int y){
             return x*y;
         }
