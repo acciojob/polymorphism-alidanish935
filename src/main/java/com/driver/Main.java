@@ -6,7 +6,7 @@ public class Main {
         Product p = new Product();
         p.Product(5, 4);
         p.Product(5, 3, 2);
-        p.Product(5, 7);
+        p.Product(5.0, 7.0);
 
     }
     public static class Product{
